@@ -1,0 +1,9 @@
+# Ignore swap files
+*~
+
+# Ignore bak files
+.bak
+.backup
+
+# Ignore build folder
+build

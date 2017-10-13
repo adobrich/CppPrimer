@@ -1,0 +1,7 @@
+add_executable(exercise_04 exercise_04.cpp)
+add_executable(exercise_06 exercise_06.cpp)
+add_executable(exercise_21 exercise_21.cpp)
+add_executable(exercise_22a exercise_22a.cpp)
+add_executable(exercise_22b exercise_22b.cpp)
+add_executable(exercise_28 exercise_28.cpp)
+add_executable(exercise_31 exercise_31.cpp)
